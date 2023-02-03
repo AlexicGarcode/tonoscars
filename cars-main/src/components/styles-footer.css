@@ -1,0 +1,14 @@
+.icon-footer{
+    margin-right: 0.5em;
+    color: black;
+}
+
+.icon-footer:hover{
+    margin-right: 0.5em;
+    color: #727171;
+}
+
+
+li>a:hover{
+    color: black !important;
+}
